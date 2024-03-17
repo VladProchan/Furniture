@@ -490,7 +490,7 @@ textarea.input {
   margin: 0 auto
 }
 .some__container {
-  display: flex;
+  display: flex
 }
 .some__content {
   flex: 0 0 50%;
