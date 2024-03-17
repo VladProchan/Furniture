@@ -491,18 +491,6 @@ textarea.input {
 }
 .some__container {
   display: flex;
-  position: relative
-}
-.some__container::before {
-  content: "";
-  position: absolute;
-  bottom: -5.125rem;
-  right: -15%;
-  width: 19.75rem;
-  height: 19.75rem;
-  background: rgba(253,173,76,.1);
-  box-shadow: .0625rem .0625rem 31.25rem rgba(253,173,76,.32);
-  border-radius: 100%
 }
 .some__content {
   flex: 0 0 50%;
